@@ -1,0 +1,13 @@
+Notifyd allows you to send messages from custom script to your mobile.
+
+Execute any application using systemd.
+Write script that executes when application terminates with specific exit code.
+Send notification to your phone using simple NPM library "notifyd".
+
+SignUp using a Username and Password and put the same credentials in your custom script.
+To get complete documentation of "notifyd" NPM library, see https://github.com/abhishekd08/Notifyd
+
+Purpose of Notifyd:
+
+When we execute a long running applcation on the Linux platform using systemd, we can set the program to restart in systemd Service properties but some times we also want to know that application was terminated ( and restarted ) and may want to do some changes in the application. 
+In this case you can write a simple script which will be executed by systemd if the main Service stops (even if it restarts again) and you can easily use Notifyd's 'npm' library to send custom message with title, body and datetime to the Notifyd application installed on your phone.

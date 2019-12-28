@@ -1,0 +1,13 @@
+{
+  "name": "fun-speak",
+  "version": "1.0.0",
+  "description": "A fun translator from English to Dothraki and Valyrian ( fictional languages used in Game of Thrones).",
+  "main": "speak.js",
+  "author": "Abhishek",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "http": "^0.0.0",
+    "inquirer": "^6.2.2"
+  }
+}

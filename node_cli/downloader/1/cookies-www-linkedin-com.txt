@@ -1,0 +1,12 @@
+# Netscape HTTP Cookie File
+
+.www.linkedin.com	TRUE	/	TRUE	1608496096	bscookie	"v=1&20181221085044cb8fde11-1717-4daa-8d52-0460a8108cabAQG3_5Bml0zYgctaPCOI8Txv5MjAuxg2"
+www.linkedin.com	FALSE	/	FALSE	1550086877	leo_auth_token	"GST:Zb4kmUAqbR3lyIzTrkioQlRexR8owE38rKJo4MkUTZllY6k6_0nH4Z:1550085135:de484c36d9c6b20507ee6ee057a02349d8f8b11e"
+www.linkedin.com	FALSE	/	FALSE	1613157202	visit	"v=1&M"
+.www.linkedin.com	TRUE	/	TRUE	1557861209	JSESSIONID	"ajax:1957877513172136590"
+.www.linkedin.com	TRUE	/	TRUE	1581621266	li_at	AQEDASChjCQDewLjAAABaOhIGkIAAAFpDFSeQlEAftLUg2ttOjbCpYB1d8Ta_YnHx9PelPMkJQ21NglOMfzw2OYSscyzv_8Lm71JkMPpMSuT-t8aLMmG0ikZsrnii3Kcw6wvdxF3QDdrZUh_mXdLehbb
+.www.linkedin.com	TRUE	/	FALSE	1557861209	sl	"v=1&zuTM_"
+www.linkedin.com	FALSE	/oauth/	TRUE	0	PLAY_SESSION	2485fc6c34684357bb11e4311a00dbca1b1a53ec-flowTrackingId=AMrWPsWBTt%2BhED%2Bupipzmw%3D%3D
+www.linkedin.com	FALSE	/help	TRUE	0	PLAY_SESSION	10828bb80855b23fcc84d67a1f580976fa52ac27-session_id=a19d7905-4138-4d8a-8f69-57361870000e%7C1550085372&recently-searched=&referral-url=https%3A%2F%2Fwww.google.com%2F&RNT-id=%7C0&recently-viewed=71924&CPT-id=N2ZhZGM0YzYtN2M4Ny00MTcwLTkyMzAtMTgzOWMxMmRkZDgy&experience=suggested&is_native=false&whitelist=%7B%7D&trk=
+www.linkedin.com	FALSE	/help	FALSE	0	PLAY_LANG	en-us
+www.linkedin.com	FALSE	/	FALSE	0	lil-lang	en_US

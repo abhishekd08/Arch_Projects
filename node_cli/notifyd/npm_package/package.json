@@ -1,0 +1,21 @@
+{
+    "name":"notifyd",
+    "version":"1.0.4",
+    "description":"Sends request to server to send notification to mobile app of NotifyD with title, message and datetime about successful or incomplete execution of any systemd process with custom success and fail scripts.",
+    "main":"notifyd.js",
+    "keywords": [
+        "notifid",
+        "notification",
+        "systemd",
+        "init",
+        "linux",
+        "background",
+        "abhishek",
+        "deshpande",
+        "abhishekd01",
+        "abhishek",
+        "init5",
+        "inti6",
+        "system"
+    ]
+}
